@@ -441,3 +441,4 @@ Open your browser to `http://localhost:5173`.
 
 This project is licensed under the [ISC License](LICENSE). Designed and engineered with architectural discipline.
 # ShopKart
+# ShopKart
